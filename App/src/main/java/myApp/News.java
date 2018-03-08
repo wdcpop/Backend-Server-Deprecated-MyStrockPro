@@ -1,4 +1,4 @@
-package myApp;
+package node.frontend.titletab;
 
 import android.content.Intent;
 import android.net.Uri;

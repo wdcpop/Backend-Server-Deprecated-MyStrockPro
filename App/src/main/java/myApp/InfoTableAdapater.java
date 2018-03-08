@@ -1,4 +1,4 @@
-package myApp;
+package node.frontend.titletab;
 
 import java.util.List;
 

@@ -1,5 +1,5 @@
 //package wdcpop.stock_dev;
-package myApp;
+package node.frontend.titletab;
 
 import android.app.Activity;
 import com.facebook.FacebookSdk;

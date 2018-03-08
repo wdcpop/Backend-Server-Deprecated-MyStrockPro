@@ -1,4 +1,4 @@
-package myApp;
+package node.frontend.titletab;
 
 /**
  * Created by WENTAO on 11/25/2017.
